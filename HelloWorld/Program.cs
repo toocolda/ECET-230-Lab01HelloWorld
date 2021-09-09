@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("\nWhat is your name?");
             var username = Console.ReadLine();
-            Console.WriteLine($"\nHello {username}!");
+            Console.WriteLine($"\nHelllllllo {username}!");
 
             int dayOfYear = DateTime.Now.DayOfYear;
 
